@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jess!
 - 👀 I’m interested in UX/UI design.
-- 🐊 I'm a graduate student at the University of Florida in the web design and online communication program.
+- 🐊 I'm a graduate student at the University of Florida in the Web Design and Online Communication Program.
 - 🌱 I’m currently learning front-end web development lanaguages and best practices. 
 - 💞️ I’m looking to collaborate on ANYTHING.
 - 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/jess-benson/ 
